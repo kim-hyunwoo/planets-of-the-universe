@@ -1,0 +1,4 @@
+# Build settings / github uses redcarpet md processor
+markdown: redcarpet
+baseurl: /planets-of-the-universe
+exclude: ['README.md'] # exclude: ['README.md', 'other folde']
